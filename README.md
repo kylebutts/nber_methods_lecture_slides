@@ -6,12 +6,12 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2023 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tpe2KrfFbQ-k4W7AMOlq0IL)*
 
-- Motivation 
-- Identification 
-- Plotting 
-- Confounds 
-- Heterogeneity 
-- Conclusions
+- [Motivation](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2023/motivation.pdf)
+- [Identification](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2023/identification.pdf)
+- [Plotting](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2023/plotting.pdf)
+- [Confounds](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2023/confounds.pdf)
+- [Heterogeneity](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2023/heterogeneity.pdf)
+- [Conclusions](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2023/conclusions.pdf)
 
 ## 2022: Empirical Bayes Methods, Theory and Application
 
@@ -19,8 +19,8 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2022 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tp9T7DVLjNisuP9v--0gWtF)*
 
-- Empirical Bayes Methods, Theory and Application
-- Empirical Bayes Applications
+- [Empirical Bayes Methods, Theory and Application](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2022/Gu.pdf)
+- [Empirical Bayes Applications](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2022/Walters.pdf)
 
 ## 2021: Causal Inference Using Synthetic Controls and the Regression Discontinuity Design
 
@@ -28,9 +28,9 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2021 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tqFqhsES9GfahLxviwXxZ74)*
 
-- Synthetic Controls: Methods and Practice
-- Regression Discontinuity Designs: Foundations
-- Regression Discontinuity Designs: Practice and Topics
+- [Synthetic Controls: Methods and Practice](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2021/Abadie.pdf)
+- [Regression Discontinuity Designs: Foundations](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2021/Cattaneo_Titunik.pdf)
+- [Regression Discontinuity Designs: Practice and Topics](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2021/Cattaneo_Titunik.pdf)
 
 ## 2020: Differential Privacy for Economists
 
@@ -38,12 +38,12 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2020 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tp8WhT7Bj6n4V6uMUfzfRRX)*
 
-- Implications of Data Privacy Concerns for Empirical Social Science
-- Differential Privacy: Observations for Economists
-- Introduction to Differential Privacy
-- Decisions with Privacy-Protected Data
-- Basic Differential Privacy Algorithms and Statistics
-- Formal Privacy in Census Data
+- [Differential Privacy: Observations for Economists](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2020/Goroff.pdf)
+- [Introduction to Differential Privacy](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2020/Kifer-1.pdf)
+- [Decisions with Privacy-Protected Data](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2020/Schmutte-1.pdf)
+- [Basic Differential Privacy Algorithms and Statistics](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2020/Kifer-2.pdf)
+- [Formal Privacy in Census Data](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2020/Schmutte-2.pdf)
+- [Implications of Data Privacy Concerns for Empirical Social Science](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2020/Oberski_Kreuter.pdf)
 
 
 ## 2019: Research Transparency and Reproducibility
@@ -52,7 +52,7 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2019 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4trVQySwyeOWh-V-bcjpLgM_)*
 
-- Research Transparency and Reproducibility
+- [Research Transparency and Reproducibility](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2019/EMslides.pdf)
 
 ## 2018: Weak Instruments and What To Do About Them
 
@@ -60,10 +60,10 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2018 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tqSwUvESqobnT4vjn2aP-gp)*
 
-- Weak instruments in the wild
-- Detecting weak instruments
-- Inference with weak instruments
-- Open issues and recent research
+- [Weak instruments in the wild](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2018/Lecture-1-and-2.pdf)
+- [Detecting weak instruments](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2018/Lecture-1-and-2.pdf)
+- [Inference with weak instruments](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2018/Lecture-3-and-4.pdf)
+- [Open issues and recent research](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2018/Lecture-3-and-4.pdf)
 
 ## 2017: Data Linking
 
@@ -73,9 +73,9 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 > Unfortunately, I have not been able to find some of the slides for this year.
 
-- Large-scale Data Linkage from Multiple Sources: Methodology and Research Challenges
-- Better Data Communication
-- How Well Does Automated Linking Perform in Historical Data? Lessons for Modern Practice
+- [Large-scale Data Linkage from Multiple Sources: Methodology and Research Challenges](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2017/Abowd.pdf)
+- [Better Data Communication](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2017/Schwabish.pdf)
+- [How Well Does Automated Linking Perform in Historical Data? Lessons for Modern Practice](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2017/Bailey.pdf)
 - Merge With Caution: Data Linkage Across Diverse Sources, 1200-2017
 
 ## 2016: Market Design
@@ -98,10 +98,10 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2015 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4trimNzdGJY1fyX1glR5LnHx)*
 
-- Machine Learning and Causal Inference
-- Unsupervised Learning: Applications to Networks and Text Mining
-- Introduction to Supervised ML Concepts and Algorithms
-- Prediction, Classification, and Applications
+- [Machine Learning and Causal Inference](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2015/Lecture-1.pdf)
+- [Unsupervised Learning: Applications to Networks and Text Mining](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2015/Lecture-2.pdf)
+- [Introduction to Supervised ML Concepts and Algorithms](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2015/Lecture-3.pdf)
+- [Prediction, Classification, and Applications](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2015/Lecture-4.pdf)
 
 
 ## 2014: Theory and Application of Network Models
@@ -110,10 +110,10 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2014 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tp1YErREe4ydfibjEONCt-w)*
 
-- Networks: Games over Networks and Peer Effects
-- Diffusion, Identification, Network Formation
-- Social and Economic Networks: Background
-- Networks: Propagation of Shocks over Economic Networks
+- [Networks: Games over Networks and Peer Effects](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2014/Lecture-1.pdf)
+- [Diffusion, Identification, Network Formation](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2014/Lecture-2.pdf)
+- [Social and Economic Networks: Background](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2014/Lecture-3.pdf)
+- [Networks: Propagation of Shocks over Economic Networks](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2014/Lecture-4.pdf)
 
 ## 2013: Econometric Methods for High-Dimensional Data
 
@@ -121,12 +121,11 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2013 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4trMgRxl-4tRqSEcqAOZuoA3)*
 
-- Nuts and Bolts
-- High-Dimensional Methods: Examples for Inference on Structural Effects``
-- Big Data Analysis
-- Applications: Using Text as Data
-- Econometrics of High-Dimensional Sparse Models
-- Applications: Estimating Treatment Effects with High-Dimensional Data
+- [Big Data Analysis](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2013/Taddy.pdf)
+- [Applications: Using Text as Data](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2013/applications.pdf)
+- [Econometrics of High-Dimensional Sparse Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2013/Chernozhukov.pdf)
+- [Applications: Estimating Treatment Effects with High-Dimensional Data](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2013/Hansen.pdf)
+- [Nuts and Bolts](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2013/nuts_and_bolts.pdf)
 
 
 ## 2012: Econometric Methods for Demand Estimation
@@ -135,14 +134,14 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2012 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tqdCv-34r7IU2bi2yiOlDq_)*
 
-- Measurement of Consumer Welfare
-- The Primitives of Static Demand Models
-- Estimation of Static Discrete Choice Models Using Market Level Data
-- Applications and Choice of IVs
-- Confronting the Precision Problem, the Information in Prices, Implications for Use of Hedonics
-- Incorporating Micro Data
-- Moment Inequalities in Discrete Choice Models
-- Dynamic Demand
+- [Measurement of Consumer Welfare](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-1.pdf)
+- [The Primitives of Static Demand Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-2.pdf)
+- [Estimation of Static Discrete Choice Models Using Market Level Data](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-3.pdf)
+- [Applications and Choice of IVs](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-4.pdf)
+- [Confronting the Precision Problem, the Information in Prices, Implications for Use of Hedonics](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-5.pdf)
+- [Incorporating Micro Data](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-6.pdf)
+- [Moment Inequalities in Discrete Choice Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-7.pdf)
+- [Dynamic Demand](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2012/Lecture-8.pdf)
 
 
 ## 2011: Computational Tools & Macroeconomic Applications
@@ -151,14 +150,17 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2011 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tpiL2FKU82UJiKxvpCkwLTg)*
 
-- Dynare Exercise
-- Financial Frictions Under Asymmetric Information and Costly State Verification
-- Projection Methods
-- Heterogeneous Agents Models
-- Solution Methods for DSGE Models and Applications using Linearization
-- Simple New Keynesian Model without Capital
-- Why Non Linear/Non-Gausian DSGE Models?
-- Perturbation Methods
+- [Solution Methods for DSGE Models and Applications using Linearization](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-1.pdf)
+- [Simple New Keynesian Model without Capital](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-2.pdf)
+- [Application of Log-linearization Methods: Optimal
+Policy](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-3.pdf)
+- [Financial Frictions Under Asymmetric Information and Costly State Verification](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-4.pdf)
+- [Dynare Exercise](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-5.pdf)
+- [Why Non Linear/Non-Gausian DSGE Models?](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-6.pdf)
+- [Perturbation Methods](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-7.pdf)
+- [Projection Methods](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-8.pdf)
+- [Filtering and Likelihood Inference](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-9.pdf)
+- [Heterogeneous Agents Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2011/Lecture-10.pdf)
 
 
 ## 2010: Financial Econometrics
@@ -167,10 +169,10 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2010 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tqfyHJ1OBnnFN9b4pKnd0OC)*
 
-- Asymptotic Theory and Continuous Time Methods in Financial Econometrics
-- Linear Factor Models and Event Studies
-- Financial Econometrics in Action Analyzing Hedge Funds and Systemic Risk
-- GMM and Consumption Based Asset Pricing Models
+- [GMM and Consumption Based Asset Pricing Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2010/Ludvigson.pdf)
+- [Asymptotic Theory and Continuous Time Methods in Financial Econometrics](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2010/Ait-Sahalia.pdf)
+- [Linear Factor Models and Event Studies](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2010/Brandt.pdf)
+- [Financial Econometrics in Action Analyzing Hedge Funds and Systemic Risk](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2010/Lo.pdf)
 
 
 ## 2009: The Role of Field Experiments in Data Collection
@@ -179,8 +181,10 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2009 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tr3iH5SJTefLIEqdaKr2WR0)*
 
-- Using Field Experiments in Economics: An Introduction
-- Conducting Field Research in Developing Countries
+- [Using Field Experiments in Economics: An Introduction (pt. 1)](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2009/list-pt1.pdf) 
+[(pt. 2)](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2009/list-pt2.pdf) 
+[(pt. 3)](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2009/list-pt3.pdf)
+- [Conducting Field Research in Developing Countries](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2009/kremer.pdf)
 
 
 ## 2008: What’s New in Econometrics: Time Series
@@ -189,16 +193,18 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2008 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4tq5GBmhpW1PFiaUdth35njM)*
 
-- Heteroskedasticity and Autocorrelation Consistent Standard Errors
-- The Kalman filter, Nonlinear filtering, and Markov Chain Monte Carlo
-- Recent Developments in Structural VAR Modeling
-- Specification and estimation of models with stochastic time variation
-- Econometrics of DSGE Models
-- Weak Instruments, Weak Identification, and Many Instruments (Part I and II)
-- Forecasting and Macro Modeling with Many Predictors (Part I and II)
-- Forecast Assessment
-- The Functional Central Limit Theorem and Testing for Time Varying Parameters
-- Frequency Domain Descriptive Statistics
+- [Frequency Domain Descriptive Statistics](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture1.pdf)
+- [The Functional Central Limit Theorem and Testing for Time Varying Parameters](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture2.pdf)
+- [Weak Instruments, Weak Identification, and Many Instruments (Part I)](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture3.pdf)
+- [Weak Instruments, Weak Identification, and Many Instruments (Part II)](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture4.pdf)
+- [The Kalman filter, Nonlinear filtering, and Markov Chain Monte Carlo](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture5.pdf)
+- [Specification and estimation of models with stochastic time variation](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture6.pdf)
+- [Recent Developments in Structural VAR Modeling](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture7.pdf)
+- [Econometrics of DSGE Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture8.pdf)
+- [Heteroskedasticity and Autocorrelation Consistent Standard Errors](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture9.pdf)
+- [Forecast Assessment](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture10.pdf)
+- [Forecasting and Macro Modeling with Many Predictors (Part I)](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture11.pdf)
+- [Forecasting and Macro Modeling with Many Predictors (Part II)](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2008/Lecture12.pdf)
 
 ## 2007: What's New in Econometrics
 
@@ -206,21 +212,21 @@ These are lecture notes/slides for the NBER Methods Lectures dating back to 2007
 
 *[2007 Lecture Playlist](https://youtube.com/playlist?list=PLzkvpFzYZ4trFArm_VjRSscL5AyQSQQLc)*
 
-- Discrete Choice Models
-- Missing Data
-- Weak Instruments and Many Instruments
-- Quantile Methods
-- Generalized Method of Moments and Empirical Likelihood
-- Nonlinear Panel Data Models
-- Control Function and Related Methods
-- Bayesian Inference
-- Cluster and Stratified Sampling
-- Partial Identification
-- Difference in Differences Estimation
-- Estimation of Average Treatment Effects Under Unconfoundedness
-- Linear Panel Data Models
-- Regression Discontinuity Designs
-- Instrumental Variables with Treatment Effect Heterogeneity Local Average Treatment Effects
+- [Estimation of Average Treatment Effects Under Unconfoundedness](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_1_match_fig.pdf)
+- [Linear Panel Data Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_2_linpanel.pdf)
+- [Regression Discontinuity Designs](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_3_rd_fig.pdf)
+- [Nonlinear Panel Data Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_4_nlpanel.pdf)
+- [Instrumental Variables with Treatment Effect Heterogeneity Local Average Treatment Effects](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_5_late_fig.pdf)
+- [Control Function and Related Methods](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_6_controlfuncs.pdf)
+- [Bayesian Inference](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_7_bayes_fig.pdf)
+- [Cluster and Stratified Sampling](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_8_cluster.pdf)
+- [Partial Identification](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_9_bounds_fig.pdf)
+- [Difference in Differences Estimation](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_10_diffindiffs.pdf)
+- [Discrete Choice Models](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_11_dc_fig.pdf)
+- [Missing Data](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_12_missing.pdf)
+- [Weak Instruments and Many Instruments](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_13_weakmany_iv.pdf)
+- [Quantile Methods](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_14_quantile.pdf)
+- [Generalized Method of Moments and Empirical Likelihood](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2007/lect_15_el.pdf)
 
 
 
