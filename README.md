@@ -1,5 +1,14 @@
 These are lecture notes/slides for the NBER Methods Lectures dating back to 2007. They were mostly found using the wayback machine.
 
+## 2024: New Developments in Experimental Design and Analysis
+
+**Susan Athey and Guido Imbens**
+
+*[2024 Lecture Playlist](https://www.youtube.com/watch?v=I6GyDWh8kfw&list=PLzkvpFzYZ4tqxt_6M_DHpLk9VAkEzS6kh)*
+
+- [Analysis and Design of Multi-Armed Bandit Experiments and Policy Learning](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2024/Athey.pdf)
+- [Interference and Spillovers in Randomized Experimentsl](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2024/Imbens.pdf)
+
 ## 2023: Linear Panel Event Study
 
 **Liyang Sun and Jesse Shapiro**
