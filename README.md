@@ -1,5 +1,14 @@
 These are lecture notes/slides for the NBER Methods Lectures dating back to 2007. They were mostly found using the wayback machine.
 
+## 2025: Uncovering Causal Mechanisms: Mediation Analysis and Surrogate Indices
+
+**Raj Chetty and Kosuke Imai**
+
+*[2024 Lecture Playlist](https://www.youtube.com/live/Z_lON4ZvCjg)*
+
+- [Slides](https://github.com/kylebutts/nber_methods_lecture_slides/blob/main/2025/slides.pdf)
+
+
 ## 2024: New Developments in Experimental Design and Analysis
 
 **Susan Athey and Guido Imbens**
